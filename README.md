@@ -125,3 +125,5 @@ Meu nome é David Felipe, sou um entusiasta do desenvolvimento web com uma paix�
 
 
 </div>
+
+Projeto desenvolvido no NLW Expert, evento da Rocketseat 💜
